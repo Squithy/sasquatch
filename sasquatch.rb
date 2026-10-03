@@ -1,7 +1,7 @@
 class Sasquatch < Formula
   desc "Tool to extract non-standard SquashFS images"
   homepage "https://github.com/devttys0/sasquatch"
-  url "https://github.com/trixmoe/sasquatch.git", revision: "9b922beb6625416f95670f25a5b31b75d8fca09b"
+  url "https://github.com/squithy/sasquatch.git", revision: "9b922beb6625416f95670f25a5b31b75d8fca09b"
   version "4.3"
   license "GPL-2.0-or-later"
 
